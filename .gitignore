@@ -1,0 +1,7 @@
+/nbproject
+/vendor/*
+/config/app.php
+/tmp/*
+/logs/*
+/webroot/.htaccess
+.htaccess
