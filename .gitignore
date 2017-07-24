@@ -1,7 +1,10 @@
 /nbproject
 /vendor/*
+!/vendor/.gitkeep
 /config/app.php
 /tmp/*
+!/tmp/.gitkeep
 /logs/*
+!/logs/.gitkeep
 /webroot/.htaccess
 .htaccess
